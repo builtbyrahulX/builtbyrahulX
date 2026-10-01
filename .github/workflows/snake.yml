@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: rahibladex
+          github_user_name: vertex.dev
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark

@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/rahibladex"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rahibladex@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/vertex.dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vertex.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -51,25 +51,25 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 
 <br>
 
-**[🏙️ Cortex-City](https://github.com/rahibladex/Cortex-City)**  
+**[🏙️ Cortex-City](https://github.com/vertex.dev/Cortex-City)**  
 > *A cutting-edge traffic predictive digital twin simulator.*  
 > <sub>`Python` • `AI/ML` • `Simulation`</sub>
 
 <br>
 
-**[🎵 RahiTunes](https://github.com/rahibladex/RahiTunes)**  
+**[🎵 RahiTunes](https://github.com/vertex.dev/RahiTunes)**  
 > *An ultra-aesthetic, free, and open-source music player.*  
 > <sub>`React` • `Tailwind` • `Web`</sub>
 
 <br>
 
-**[🛡️ AcousticGuard](https://github.com/rahibladex/AcousticGuard)**  
+**[🛡️ AcousticGuard](https://github.com/vertex.dev/AcousticGuard)**  
 > *Intelligent audio analysis and security system.*  
 > <sub>`Machine Learning` • `Audio Processing`</sub>
 
 <br>
 
-**[🌌 My-Portfolio](https://github.com/rahibladex/My-Portfolio)**  
+**[🌌 My-Portfolio](https://github.com/vertex.dev/My-Portfolio)**  
 > *My personal developer portfolio with premium UI/UX.*  
 > <sub>`Next.js` • `TailwindCSS`</sub>
 
@@ -80,7 +80,7 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahibladex&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vertex.dev&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ---
@@ -88,5 +88,5 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahibladex/rahibladex/snake-output/snake.svg" alt="GitHub Snake Activity" />
+  <img src="https://raw.githubusercontent.com/vertex.dev/vertex.dev/snake-output/snake.svg" alt="GitHub Snake Activity" />
 </div>
