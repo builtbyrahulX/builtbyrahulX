@@ -84,9 +84,3 @@ Welcome to my digital workspace! I'm an **AI & ML enthusiast** and a passionate 
 </div>
 
 ---
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/builtbyrahulX/builtbyrahulX/snake-output/snake.svg" alt="GitHub Snake Activity" />
-</div>
